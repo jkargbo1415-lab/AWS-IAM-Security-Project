@@ -55,7 +55,7 @@ The goal of this project was to gain hands-on experience implementing security c
 ### 09-ReadOnly User Created
 ![09](screenshots/09-readonly-user-created.png)
 ### 10-ReadOnly User Permissions
-![10](screenshots/10-readonly-user-permissioons.png)
+![10](screenshots/10-readonly-user-permissions.png)
 
 ## Key Takeaways
 Through this project i strengethened my understanding of AWS Identity and Access management by implementing secure user administration, applying least privilege permissions, enabling MFA, and using CloudTrail to monitor security-related events. These practices form the foundationof securing AWS environments.
